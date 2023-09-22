@@ -1,0 +1,21 @@
+.table {
+  width: 90%;
+  border-collapse: collapse;
+  margin: auto;
+}
+
+.table th,
+.table td {
+  padding: 10px;
+  text-align: left;
+}
+
+.input-group {
+  width: 70%;
+  margin: auto;
+}
+
+/* .btnCSS {
+  margin-right: 0px;
+    margin-left: 75%;
+} */
